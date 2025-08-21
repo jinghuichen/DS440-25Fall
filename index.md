@@ -34,8 +34,7 @@ This course provides a data sciences problem-solving experience, addressing real
 ## Course Materials
 - No textbook is required for this course. However, the following (free online) textbooks may be helpful
     - Deep Learning (Ian Goodfellow, Yoshua Bengio, Aaron Courville)
-    - The Elements of Statistical Learning - Data Mining, Inference, and Prediction, Second Edition (Trevor Hastie, Robert Tibshirani, Jerome Friedman)
-    - Pattern Recognition and Machine Learning (Christopher Bishop)
+    - Hands-On Large Language Models: Language Understanding and Generation (Jay Alammar, Maarten Grootendorst)
 
 
 ## Capstone Project
@@ -122,43 +121,41 @@ Final grade cutoff:
 ## Tentative Schedule
 
 Progress Report are typically Due by 11:59pm on Friday of that week indicated. Exact deadlines are indicated on corresponding assignments page. 
-
-
-| #  | Date     | Topics                       | Due Dates                |
-|----|----------|------------------------------|--------------------------|
-| 1  | 01/14/25 | Course Introduction          |                          |
-| 2  | 01/16/25 | Advices on Selecting Topics  |                          |
-| 3  | 01/21/25 | Topic Disscussion 1          |                          |
-| 4  | 01/23/25 | Topic Disscussion 2          |                          |
-| 5  | 01/28/25 | Week 3 Discussion 1          |                          |
-| 6  | 01/30/25 | Week 3 Discussion 2          | Progress Report 1 Due    |
-| 7  | 02/04/25 | Week 4 Discussion 1          |                          |
-| 8  | 02/06/25 | Week 4 Discussion 2          |                          |
-| 9  | 02/11/25 | Week 5 Discussion 1          |                          |
-| 10 | 02/13/25 | Week 5 Discussion 2          | Progress Report 2 Due    |
-| 11 | 02/18/25 | Week 6 Discussion 1          |                          |
-| 12 | 02/20/25 | Week 6 Discussion 2          | Peer Review 1 Due        |
-| 13 | 02/25/25 | Week 7 Discussion 1          |                          |
-| 14 | 02/27/25 | Week 7 Discussion 2          | Progress Report 3 Due    |
-| 15 | 03/04/25 | Week 8 Discussion 1          |                          |
-| 16 | 03/06/25 | Week 8 Discussion 2          |                          |
-| -- | 03/11/25 | Spring Break                 |                          |
-| -- | 03/13/25 | Spring Break                 |                          |
-| 17 | 03/18/25 | Week 10 Discussion 1         |                          |
-| 18 | 03/20/25 | Week 10 Discussion 2         | Progress Report 4 Due    |
-| 19 | 03/25/25 | Week 11 Discussion 1         |                          |
-| 20 | 03/27/25 | Week 11 Discussion 2         | Peer Review 2 Due        |
-| 21 | 04/01/25 | Week 12 Discussion 1         |                          |
-| 22 | 04/03/25 | Week 12 Discussion 2         | Progress Report 5 Due    |
-| 23 | 04/08/25 | Week 13 Discussion 1         |                          |
-| 24 | 04/10/25 | Week 13 Discussion 2         |                          |
-| 25 | 04/15/25 | Week 14 Discussion 1         |                          |
-| 26 | 04/17/25 | Week 14 Discussion 2         | Progress Report 6 Due    |
-| 27 | 04/22/25 | Presentation/Slide Review 1  |                          |
-| 28 | 04/24/25 | Presentation/Slide Review 2  |                          |
-| 29 | 04/29/25 | Project Presentation 1       |                          |
-| 30 | 05/01/25 | Project Presentation 2       | Peer Review 3 Due        |
-| -  | 05/05/25 |                              | Final Project Report Due |
+| # | Date | Topics | Due Dates |
+|:---:|:----------:|:------------------------------|:--------------------------|
+| 1 | 08/26/25 | Course Introduction | |
+| 2 | 08/28/25 | Advices on Selecting Topics | |
+| 3 | 09/02/25 | Topic Discussion 1 | |
+| 4 | 09/04/25 | Topic Discussion 2 | |
+| 5 | 09/09/25 | Week 3 Discussion 1 | |
+| 6 | 09/11/25 | Week 3 Discussion 2 | Progress Report 1 Due |
+| 7 | 09/16/25 | Week 4 Discussion 1 | |
+| 8 | 09/18/25 | Week 4 Discussion 2 | |
+| 9 | 09/23/25 | Week 5 Discussion 1 | |
+| 10 | 09/25/25 | Week 5 Discussion 2 | Progress Report 2 Due |
+| 11 | 09/30/25 | Week 6 Discussion 1 | |
+| 12 | 10/02/25 | Week 6 Discussion 2 | Peer Review 1 Due |
+| 13 | 10/07/25 | Week 7 Discussion 1 | |
+| 14 | 10/09/25 | Week 7 Discussion 2 | Progress Report 3 Due |
+| 15 | 10/14/25 | Week 8 Discussion 1 | |
+| 16 | 10/16/25 | Week 8 Discussion 2 | |
+| 17 | 10/21/25 | Week 10 Discussion 1 | |
+| 18 | 10/23/25 | Week 10 Discussion 2 | Progress Report 4 Due |
+| 19 | 10/28/25 | Week 11 Discussion 1 | |
+| 20 | 10/30/25 | Week 11 Discussion 2 | Peer Review 2 Due |
+| 21 | 11/04/25 | Week 12 Discussion 1 | |
+| 22 | 11/06/25 | Week 12 Discussion 2 | Progress Report 5 Due |
+| 23 | 11/11/25 | Week 13 Discussion 1 | |
+| 24 | 11/13/25 | Week 13 Discussion 2 | |
+| 25 | 11/18/25 | Week 14 Discussion 1 | |
+| 26 | 11/20/25 | Week 14 Discussion 2 | Progress Report 6 Due |
+| -- | 11/25/25 | Thanksgiving Holiday | |
+| -- | 11/27/25 | Thanksgiving Holiday | |
+| 27 | 12/02/25 | Presentation/Slide Review 1 | |
+| 28 | 12/04/25 | Presentation/Slide Review 2 | |
+| 29 | 12/09/25 | Project Presentation 1 | |
+| 30 | 12/11/25 | Project Presentation 2 | Peer Review 3 Due |
+| - | 12/12/25 | | Final Project Report Due |
 
 
 
