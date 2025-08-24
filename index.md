@@ -48,7 +48,7 @@ Students are not completely on their own. Throughout the semester there will be 
 - Team Meetings: Teams should meet weekly on their own. Each team member should keep notes of meetings. Meetings should start with a review of work completed and then decide on the next steps for the project including explicitly deligating which team member will accomplish which task. Students may be asked to describe these meetings so keep good notes.  
 - Final Reports and Presentations: The final project in this class is a report (in the form of a journal/conference article) describing the project. Students will also be asked to present their report orally to the class. Both the presentation and the report are to be completed as a team.  
 
-**Teams**: Students may choose their own teams (typically 3-4 students per team). Those students without a team will be randomly paired. 
+**Teams**: Students may choose their own teams (typically 3 students per team). Those students without a team will be randomly paired. 
 
 **Topics**: In general, students can pick whatever topics related to data science they are interested in. We encourage students to pick "fun and doable" project topics. But please note that DS440 is a capstone project course, thus we have a higher standard than a typical ML/DS course project. Simply applying an existing algorithm on some dataset (e.g., predicting the house price using linear regression) is not satisfiable. 
 
@@ -127,8 +127,8 @@ Progress Report are typically Due by 11:59pm on Friday of that week indicated. E
 | 2 | 08/28/25 | Advices on Selecting Topics | |
 | 3 | 09/02/25 | Topic Discussion 1 | |
 | 4 | 09/04/25 | Topic Discussion 2 | |
-| 5 | 09/09/25 | Week 3 Discussion 1 | |
-| 6 | 09/11/25 | Week 3 Discussion 2 | Progress Report 1 Due |
+| 5 | 09/09/25 | Topic Discussion 3 | |
+| 6 | 09/11/25 | Topic Discussion 4 | Progress Report 1 Due |
 | 7 | 09/16/25 | Week 4 Discussion 1 | |
 | 8 | 09/18/25 | Week 4 Discussion 2 | |
 | 9 | 09/23/25 | Week 5 Discussion 1 | |
@@ -151,10 +151,10 @@ Progress Report are typically Due by 11:59pm on Friday of that week indicated. E
 | 26 | 11/20/25 | Week 14 Discussion 2 | Progress Report 6 Due |
 | -- | 11/25/25 | Thanksgiving Holiday | |
 | -- | 11/27/25 | Thanksgiving Holiday | |
-| 27 | 12/02/25 | Presentation/Slide Review 1 | |
-| 28 | 12/04/25 | Presentation/Slide Review 2 | |
-| 29 | 12/09/25 | Project Presentation 1 | |
-| 30 | 12/11/25 | Project Presentation 2 | Peer Review 3 Due |
+| 27 | 12/02/25 | Presentation Review/QA  | |
+| 28 | 12/04/25 | Project Presentation 1 | |
+| 29 | 12/09/25 | Project Presentation 2 | |
+| 30 | 12/11/25 | Project Presentation 3 | Peer Review 3 Due |
 | - | 12/12/25 | | Final Project Report Due |
 
 
