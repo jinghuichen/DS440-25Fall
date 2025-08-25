@@ -1,4 +1,4 @@
-<img width="974" height="52" alt="image" src="https://github.com/user-attachments/assets/09ec9332-da87-4c9c-a4ef-3faeff02564a" /># DS 440: Data Sciences Capstone Course
+# DS 440: Data Sciences Capstone Course
 
 ## Overview
 
