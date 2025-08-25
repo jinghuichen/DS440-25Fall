@@ -144,10 +144,10 @@ Progress Report are typically Due by 11:59pm on Friday of that week indicated. E
 | 26 | 11/20/25 | Week 14 Discussion 2 | Progress Report 6 Due |
 | -- | 11/25/25 | Thanksgiving Holiday | |
 | -- | 11/27/25 | Thanksgiving Holiday | |
-| 27 | 12/02/25 | Presentation Review/QA  | |
-| 28 | 12/04/25 | Project Presentation 1 | |
+| 27 | 12/02/25 | Presentation Review/QA  | Presentation Materials Due|
+| 28 | 12/04/25 | Project Presentation 1 | Peer Review 3 Due |
 | 29 | 12/09/25 | Project Presentation 2 | |
-| 30 | 12/11/25 | Project Presentation 3 | Peer Review 3 Due |
+| 30 | 12/11/25 | Project Presentation 3 |  |
 | - | 12/12/25 | | Final Project Report Due |
 
 
