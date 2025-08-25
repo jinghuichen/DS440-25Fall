@@ -1,4 +1,4 @@
-# DS 440: Data Sciences Capstone Course
+<img width="974" height="52" alt="image" src="https://github.com/user-attachments/assets/09ec9332-da87-4c9c-a4ef-3faeff02564a" /># DS 440: Data Sciences Capstone Course
 
 ## Overview
 
@@ -41,32 +41,25 @@ This course provides a data sciences problem-solving experience, addressing real
 
 Students (working in teams) will have 1 semester to pick, pitch, plan, perform, and present a project of their choosing. This course will guide students through this process. Still, students are expected to be self-motivated and take an active role in pushing their projects forward. **Students who are expecting that instructors will "tell them what to do next" will fail this course.** It's one thing to request feedback, it's another to wait for instruction. The former is welcomed, and the latter is not tolerated. 
 
-Students are not completely on their own. Throughout the semester there will be small assignments and regular check-ins with instructors to help them manage their time. 
+Students are not completely on their own. Throughout the semester, there will be small assignments and regular check-ins with instructors to help them manage their time. 
 
-- Weekly Discussion: Each week teams will meet with instructors and report on progress, pitfalls, and plans. Students are expected to work as a team but also highlight efforts and value added by each team member as an individual. These meetings will be short, 10 min each typically, so be concise and come prepared. Students who do not prepare for these meetings will struggle in the course. 
-- Progress Reports: Approximately every other week students will prepare progress reports. These written reports should be about 2-3 pages in length. Most progress reports will be completed as teams, some will be completed as individuals. Most progress reports will be in response to a prompt which is designed to help students plan.
-- Team Meetings: Teams should meet weekly on their own. Each team member should keep notes of meetings. Meetings should start with a review of work completed and then decide on the next steps for the project including explicitly deligating which team member will accomplish which task. Students may be asked to describe these meetings so keep good notes.  
+- Weekly Discussion: Each week, teams will meet with instructors and report on progress, pitfalls, and plans. Students are expected to work as a team but also highlight efforts and value added by each team member as an individual. These meetings will be short, 10 min each typically, so be concise and come prepared. Students who do not prepare for these meetings will struggle in the course. 
+- Progress Reports: Approximately every other week, students will prepare progress reports. These written reports should be about 2-4 pages in length. Progress reports will be completed as teams. Most progress reports will be in response to a prompt which is designed to help students plan.
+- Team Meetings: Teams should meet weekly on their own. Each team member should keep notes of meetings. Meetings should start with a review of work completed and then decide on the next steps for the project, including explicitly delegating which team member will accomplish which task. Students may be asked to describe these meetings so keep good notes.  
 - Final Reports and Presentations: The final project in this class is a report (in the form of a journal/conference article) describing the project. Students will also be asked to present their report orally to the class. Both the presentation and the report are to be completed as a team.  
 
 **Teams**: Students may choose their own teams (typically 3 students per team). Those students without a team will be randomly paired. 
 
-**Topics**: In general, students can pick whatever topics related to data science they are interested in. We encourage students to pick "fun and doable" project topics. But please note that DS440 is a capstone project course, thus we have a higher standard than a typical ML/DS course project. Simply applying an existing algorithm on some dataset (e.g., predicting the house price using linear regression) is not satisfiable. 
+**Topics**: In general, students can pick whatever topics related to data science/AI they are interested in. 
+- We encourage students to pick "fun and doable" project topics.
+- This year we specifically encourage every team to pick a topic related to LLM/Generative AI.
+- Please note that DS440 is a capstone project course, thus we have a higher standard than a typical ML/DS course project. Simply applying an existing algorithm on some dataset (e.g., predicting the house price using linear regression) is not satisfactory. 
 
-Your project should aim to either:
-- solve a new/realistic data science problem with no current solutions.
-- solve an existing data science problem that the current solutions are not good enough.
-- advance our understanding on existing data science concepts, or create new/improved benchmarks for measuring the success of data science tasks.
-
-And you need to convince the client that your topic is meaningful:
-- if you solve a new problem, why is it new? why the current strategies don't work? why your idea might work?
-- if you solve an existing problem with a new solution, how do previous solutions perform? Why do they not work well? why your idea might improve upon them?
-- if you want to advance our understandings on certain concepts, what is the current mainstream opinion towards this concept? Any initial evidence that our current understanding is wrong or not comprehensive?
-- if you want to create a new benchmark for a certain task, why measuring the success of this task is hard in the current stage? Why existing strategies cannot well measure the success of this task?
+ 
 
 **Hints**: 
-- Attendance is mandatory at all times. Failure to show up in classes/discussions/meetings will almost certainly end with a failing grade in the course unless there are truly extenuating circumstances.  
-- Students should come prepared for each and every interaction with instructors. It is your chance to seek suggestions and feedback. Students should also be prepared for questions about their own projects during weekly discussions. 
-- Projects do not always need a positive result to be successful. A project that well demonstrates a negative result can still be informative, (e.g., xxx cannot be used to do xxx), if you can clearly illustrate the reason with detailed evidence.
+- Attendance is mandatory at all times even if you are not meeting with the instruction team on that day. Failure to show up in classes/discussions/meetings will almost certainly end with a failing grade in the course unless there are truly extenuating circumstances.  
+- Students should come prepared for each and every interaction with instructors. It is your chance to seek suggestions and feedback. Students should also be prepared for questions about their own projects during weekly discussions. Make slides for each discussion and it’s easier to track the progress.
 - Team members should endeavor to "make each other look good" in the eyes of the client (i.e., instructor). However, if there is a substantial or intractable personnel issue, this should be brought to the attention of the instructors at the early stage of the project. Teamwork will be evaluated through peer evaluations. 
 
 
@@ -89,7 +82,7 @@ Consistent with University policies for 3 credit hours, this course requires abo
 ## Generative AI Policy
 - It is not allowed to use ChatGPT or other GenAI tools for writing any of your assignments. Everything you submit should be written in your own language. You will **fail the class if your progress reports or final reports are written by Generative AI tools**.
 
-- However, if your project aims to study GenAI themselves (e.g., studying their certain capabilities) or use generative AI as a tool (e.g., generating data for your project), you are allowed and encouraged to use them in your project.
+- However, if your project aims to study GenAI themselves (e.g., studying their certain capabilities) or use generative AI as a tool (e.g., generating data/code for your project), you are allowed and encouraged to use them in your project.
 
 
 ## Grading Policy
