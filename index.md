@@ -18,9 +18,9 @@ This course provides a data sciences problem-solving experience, addressing real
 - Office hours: by appointment (email instructor to setup time)
 
 - TA: Hanyu Wang  
-    - Office hours: TBD
+    - Office hours: Tue 7:00pm to 8:00pm @ Zoom
 - IA: Durva Dev
-    - Office hours: TBD
+    - Office hours: Mon 4:30pm to 5:30pm @ E301 Westgate
 
 
 ## Course Objectives
